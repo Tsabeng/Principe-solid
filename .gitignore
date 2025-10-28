@@ -1,0 +1,4 @@
+// Ignorer les fichiers compilés Java
+*.class
+// Ignorer les dossiers de configuration de l'éditeur Visual Studio Code
+.vscode/
